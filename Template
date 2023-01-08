@@ -2,7 +2,7 @@ import telebot
 
 import os
 
-bot = telebot.TeleBot(os.environ['TELEGRAM_BOT_TOKEN'])
+bot = telebot.TeleBot(os.environ['5407852027:AAHmZtIkjsOYzhn7tHS5MsvW-EXGJ74iPWw'])
 
 # This dictionary will store the products that are available in the shop
 
